@@ -1,8 +1,10 @@
-<h1 align="center">Movie Genre Detection Models</h1>
+<h1 align="center">Movie Genre Detection Model</h1>
 <p>This project aims to detect the <strong>genre(s)</strong> of a movie by analysing its <strong>YouTube trailer</strong>, using <strong>transcript-based machine learning involing NLP</strong> techniques. Each trailer may belong to <strong>multiple genres</strong>, making this a <em>multi-label classification task</em>.</p>
 
 <hr />
-
+<p align="center">
+  <img src="movie-genre-detection-model.png" alt="Movie Genre Detection Model" >
+</p>
 <h2>📁 Dataset & Preprocessing</h2>
 
 <p>I used the <a href="https://grouplens.org/datasets/movielens/" target="_blank">MovieLens Dataset</a> to map <code>movieId</code> to YouTube trailer IDs. The dataset preparation involves:</p>
@@ -93,7 +95,12 @@ file_name, movie_name, genre, transcript, audio_file
 </ul>
 
 <hr />
+## 👨‍💻 Contributors
 
+- [@ib-hussain](https://github.com/ib-hussain)
+- [@AmnaTariqRana](https://github.com/AmnaTariqRana)
+
+---
 <h2>📚 References</h2>
 <ol>
   <li>Radford et al. (2022), <em>Robust Speech Recognition via Large‑Scale Weak Supervision</em>, Whisper ASR</li>
