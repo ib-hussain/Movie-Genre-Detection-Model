@@ -95,6 +95,7 @@ file_name, movie_name, genre, transcript, audio_file
 </ul>
 
 <hr />
+
 ## 👨‍💻 Contributors
 
 - [@ib-hussain](https://github.com/ib-hussain)
